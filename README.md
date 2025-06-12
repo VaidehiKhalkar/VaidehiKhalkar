@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Khalkar</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pjcW45cWhwZ3J2MWpnb2JwaWhqdmNqMXMxaW94cHgxdzNtdzh6aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
-</p>
 
 <h3 align="center">🚀 Data Science Learner | Big Data Explorer | Aspiring Data Analyst</h3>
 
@@ -9,97 +6,84 @@
 
 ### 👩‍💻 About Me
 
-🎓 I'm a passionate postgraduate student at **CDAC Kharghar**, pursuing a specialization in **Data Science & Big Data Technologies**.  
-🔍 I enjoy uncovering insights hidden in data, building intelligent systems, and deploying dashboards that drive decisions.
+I'm a passionate postgraduate student at **CDAC Kharghar**, specializing in **Data Science and Big Data Technologies**. I love turning data into actionable insights and creating intelligent solutions to solve real-world problems.
 
-🧠 Skilled in: `Python`, `MySQL`, `Hive`, `PySpark`, `EDA`, `Streamlit`  
-💡 Passionate about building smart, scalable, and impactful data-driven applications.
+I have hands-on experience in `Python`, `SQL`, `Hive`, `PySpark`, and exploratory data analysis (EDA). I'm actively building data dashboards and analytical tools.
 
----
-
-### 💼 What I'm Working On
-
-- 🚗 **Car Dataset EDA Dashboard** (Inspired by [`usedcardataset.streamlit.app`](https://usedcardataset.streamlit.app))
-- 💳 **Fraud Detection ML System** (Real-time dashboarding + model deployment)
-- 🏨 **Hotel Booking Demand Analytics** (EDA + Pattern discovery for insights)
+💡 Key Projects:
+- 🚗 **Car Dataset EDA Dashboard**
+- 💳 **Fraud Detection System with ML & Real-time Dashboards**
+- 🏨 **Resort Hotel Booking Data Analysis for Operational Insights**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Stack
 
 #### 👩‍💻 Languages
-`Python`, `SQL`, `Java`, `HTML`, `CSS`, `JavaScript`
+Python, SQL, Java, HTML, CSS, JavaScript
 
 #### 🗃️ Databases
-`MySQL`, `MongoDB`, `Hive`
+MySQL, MongoDB, Hive
 
 #### 🚀 Big Data Tools
-`Hadoop`, `HDFS`, `YARN`, `Hive`, `Spark`, `PySpark`, `Kafka`
+Hadoop, HDFS, YARN, Hive, Spark, PySpark, Kafka
 
 #### 📊 Data Science
-`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `EDA`, `ML`
+Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, EDA, ML
 
-#### 🖥️ Dashboards
-`Streamlit`, `PowerBI (Basics)`
+#### 🖥️ Dashboards & Web Apps
+Streamlit, Power BI (Basics)
 
 #### ☁️ Cloud & DevOps
-`AWS (Basics)`, `Linux`, `Git & GitHub`
+AWS (Basics), Linux, Git & GitHub
 
 ---
 
-### 📚 Currently Learning
+### 🌱 Currently Learning
 
-- 📈 Interactive Dashboards using Streamlit + Plotly
-- ☁️ Cloud Deployment of ML models (AWS + Streamlit Sharing)
-- 🔄 Real-Time Analytics with Apache Spark & Kafka
-- 🧠 ML Optimization & Feature Engineering
+- Streamlit + Plotly Dashboards  
+- ML Model Deployment on Cloud  
+- Real-Time Analytics with Spark & Kafka  
+- Hive Optimization & HDFS Architecture
 
 ---
 
-### 📈 GitHub Highlights
+### 📈 GitHub Projects
 
-📌 Explore some of my featured repositories:
+Explore my repositories:
+
 - 📊 [Hotel Booking EDA](#)
-- 💳 [Fraud Detection System](#)
-- 📈 [Hive SQL for Airlines Data](#)
-- 🔍 [Streamlit Dashboard Project](#)
+- 💳 [Fraud Detection with Dashboard](#)
+- 🔍 [Hive Airline Dataset Queries](#)
+- 📈 [Car Data Streamlit Dashboard](#)
 
-👉 Check all projects at: [My GitHub Repositories](https://github.com/)
+👉 Full list of projects: [GitHub Repositories](https://github.com/)
 
 ---
 
-### 📫 Connect With Me
+### 📫 Contact Me
 
-- 📧 Email: **vaidehikhalkar007@gmail.com**
-- 💼 LinkedIn: [Vaidehi Khalkar](https://linkedin.com/in/vaidehi-khalkar-4715b622a)
+<p>
+  <a href="mailto:vaidehikhalkar007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/vaidehi-khalkar-4715b622a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 ### ⚙️ Tools & Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-004488?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+- Python, SQL, MySQL, Hive  
+- Apache Spark, Hadoop, Kafka  
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Streamlit, Power BI  
+- Git, GitHub, AWS (Basics), Linux
 
 ---
 
-### 📊 GitHub Stats
+### ❤️ Thank You for Visiting!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidehi007&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidehi007&theme=radical" height="165" />
-</p>
-
----
-
-### ❤️ Thank You for Visiting My Profile!
-
-*Let's connect, collaborate, and build something impactful together 🚀*
+Let's connect, learn together, and build impactful data-driven solutions 🚀
