@@ -8,7 +8,7 @@
 
 I'm a passionate postgraduate student at **CDAC Kharghar**, specializing in **Data Science and Big Data Technologies**. I love turning data into actionable insights and creating intelligent solutions to solve real-world problems.
 
-I have hands-on experience in `Python`, `SQL`, `Hive`, `PySpark`, and exploratory data analysis (EDA). I'm actively building data dashboards and analytical tools.
+I have hands-on experience in `Python`, `SQL`, `Hive`, `PySpark`,`Cloud` and exploratory data analysis (EDA). I'm actively building data dashboards and analytical tools.
 
 💡 Key Projects:
 - 🚗 **Car Dataset EDA Dashboard**
@@ -57,7 +57,7 @@ Explore my repositories:
 - 🔍 [Hive Airline Dataset Queries](#)
 - 📈 [Car Data Streamlit Dashboard](#)
 
-👉 Full list of projects: [GitHub Repositories](https://github.com/)
+👉 Full list of projects: [GitHub Repositories](https://github.com/VaidehiKhalkar?tab=repositories)
 
 ---
 
